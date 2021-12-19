@@ -239,12 +239,3 @@ The following are screenshots for the app in this repo:
 
 + Fairness:  I will need to consider and measure the fairness of my data and model, especially for rare conditions, for example, in this case, where gender inequality prerequisites may be critical to success. 
 
-#### REFERENCES
-
-(O.1) Convex Optimization: https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
-(O.2) Convex Optimization: Algorithms and Complexity: http://sbubeck.com/Bubeck15.pdf
-(O.3) Non-convex Optimization for Machine Learning: https://www.nowpublishers.com/article/Details/MAL-058
-(O.4) Numerical Optimization: https://www.amazon.com/Numerical.../dp/0387303030
-(C.1) High Dimensional Statistics: A Non-asymptotic Viewpoint: https://www.cambridge.org/.../8A91ECEEC38F46DAB53E9FF8757...
-(C.2) Concentration Inequalities: A Non-asymptotic Theory of Independence: https://www.amazon.com/Conc.../dp/019876765X/ref=pd_lpo_1...
-(C.3) An Introduction to Matrix Concentration Inequalities: https://arxiv.org/pdf/1501.01571.pdf
