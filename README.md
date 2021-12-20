@@ -5,8 +5,9 @@ Predict severity level of car accidents in the USA from 2016-2020 using regressi
 ![model comparison](./model-comparison.jpg)
 
 
-# Problem statement
-This is a countrywide car accident dataset, which covers 49 states of the USA. The accident data are collected from February 2016 to Dec 2020, using multiple APIs that provide streaming traffic incident (or event) data. These APIs broadcast traffic data captured by a variety of entities, such as the US and state departments of transportation, law enforcement agencies, traffic cameras, and traffic sensors within the road-networks. Currently, there are about 1.5 million accident records in this dataset. Check here to learn more about this dataset.
+# Data
+This is a countrywide car accident dataset, which covers 49 states of the USA. 
+The accident data are collected from February 2016 to Dec 2020, using multiple APIs that provide streaming traffic incident (or event) data.
 
 
 # Objective
@@ -36,7 +37,7 @@ R2
 # Key Findings:
 > The maximum number of accidents have taken place at around 4-5P.M, and a relatively high has taken place from 7–8 AM. This can result from the rush hour that most people come to and back to work, school, and home.
 
-> The state has the most number of accidents in California (28%), followed by Florida(10%) in the USA (2016-2020).
+> The state has the most accidents in California (28%), followed by Florida(10%) in the USA (2016-2020).
 
 > The density of points is more at the eastern and western coasts than in the middle of the country, indicating that more accidents were recorded at the two sides from February 2016 to Dec 2020 in the Contiguous United States rather than its middle part.
 
