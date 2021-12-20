@@ -2,7 +2,7 @@
 Comprehensive data preparation, exploration, visualization, feature engineering, and regression modeling for a case study: 
 Predict severity level of car accidents in the USA from 2016-2020 using regression models.
 
-![model comparison](model-comparison.png)
+![model comparison](./model-comparison.jpg)
 
 
 # Problem statement
