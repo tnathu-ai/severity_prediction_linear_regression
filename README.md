@@ -1,4 +1,4 @@
-# Assignment 2: Modeling - COSC2789
+# Severity Prediction Linear Regression
 Comprehensive data preparation, exploration, visualization, feature engineering, and regression modeling for a case study: 
 Predict severity level of car accidents in the USA from 2016-2020 using regression models.
 
