@@ -118,3 +118,19 @@ scripts resolved the issue by clear out all the output to run through the whole 
 1. `conda install -c conda-forge nbstripout` or `pip install nbstripout`
 
 2. `nbstripout filename.ipynb`
+
+
+
+
+
+# Acknowledgements
+
+Please cite the following papers if you use this dataset:
+
+Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, 2019.
+
+Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. "Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights." In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019.
+
+# Usage Policy and Legal Disclaimer
+
+This dataset is being distributed only for Research purposes, under Creative Commons Attribution-Noncommercial-ShareAlike license (CC BY-NC-SA 4.0). By clicking on download button(s) below, you are agreeing to use this data only for non-commercial, research, or academic applications. You may need to cite the above papers if you use this dataset.
