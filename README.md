@@ -8,6 +8,7 @@ Predict severity level of car accidents in the USA from 2016-2020 using regressi
 # Data
 This is a countrywide car accident dataset, which covers 49 states of the USA. 
 The accident data are collected from February 2016 to Dec 2020, using multiple APIs that provide streaming traffic incident (or event) data.
+[Source:](https://smoosavi.org/datasets/us_accidents) https://smoosavi.org/datasets/us_accidents
 
 
 # Objective
